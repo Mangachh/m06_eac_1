@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<torneig>
+	<nom>Torneig Catalunya</nom>
+	<lloc>Tarragona</lloc>
+	<categoria>A</categoria>
+	<jugadors>
+		<jugador>
+			<nom>Andreu F.</nom>
+			<ranking>11</ranking>
+			<edat>27</edat>
+		</jugador>
+		<jugador>
+			<nom>Marti L.</nom>
+			<ranking>5</ranking>
+			<edat>19</edat>
+		</jugador>
+		<jugador>
+			<nom>Eva M.</nom>
+			<ranking>3</ranking>
+			<edat>23</edat>
+		</jugador>
+		<jugador>
+			<nom>Anna T.</nom>
+			<ranking>2</ranking>
+			<edat>29</edat>
+		</jugador>
+		<jugador>
+			<nom>Albert D.</nom>
+			<ranking>5</ranking>
+			<edat>34</edat>
+		</jugador>
+    </jugadors>
+</torneig>
